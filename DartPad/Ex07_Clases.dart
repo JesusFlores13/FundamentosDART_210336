@@ -14,7 +14,7 @@ void main() {
     final numeroDia = getDayNumber();
     print("En 3 dias estaremos a ${(numeroDia+3)}");
 //3. Llamado de una funcion con parametros  
-    print(greetSomeone("Jesus"));
+    print(greetSomeone("Jonathan"));
 //3.1 Y que pasa si intentamos
     print(greetSomeone(4));
     print(greetSomeone(-312));
@@ -31,9 +31,9 @@ void main() {
 //4. Llamado de Funciones con varios parámetros posicionales
 print(greetSomeoneHourOfDay("Jesus", 10));
 
-print(greetSomeoneHourOfDay("Marco", null));
+print(greetSomeoneHourOfDay("Jose", null));
 
-print(greetSomeoneHourOfDay("Jazmin"));
+print(greetSomeoneHourOfDay("Maria"));
 
 //5 Funciones LAMDA, ANONIMAS, ARROW FUNCTIONS, FUNCIONES FLECHAS
 //Las funciones lambda, tambien conocidas como funciones anonimas o funciones flecha
@@ -112,8 +112,8 @@ int getDayNumber() //<- Retorna un entero
     return "${greeting}, ${personName}";
  }
 //6. FUNICONES CON PARAMETROS NOMBRADOS
-String infoCarListStatus({required String buyerName, double amountCarList = 0.0, String status = "Seleccion de Productos" })
+String infoCarListStatus({required String buyerName, double amountCarList = 0.0, String status = })
 
 {
-    return "El carrito de compras de : ${buyerName}, tiene un total de \$${amountCarList} y actualmente esta en estatus: ${status}";
+    return "El carrito de compras de : ${buyerName}, tiene un total de \$${amountCarList} y actualmente esta en estatus: ${status}"
 }
