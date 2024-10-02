@@ -16,7 +16,9 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |6|Mapas|6|Finalizada|
 |7|Listas, Iterables y Conjuntos de datos |9|Finalizada|
 |8|Funciones y parametros en DART | 11 |Finalizada|
-|9|Clases | 9| Finalizada|
+|9|Clases y Sobre escrituraas | 9| Finalizada|
+|10| Cosntructores Nombrados |8|Finalizada |
+|11|Getters(Lectura Controlada) y Setters (Modificacion Controlada) |9|Finalizada|
 
 ## Linck de PADLET
 https://bit.ly/practicas-10B-dmi
