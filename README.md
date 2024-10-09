@@ -19,6 +19,7 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |9|Clases y Sobre escrituraas | 9| Finalizada|
 |10| Cosntructores Nombrados |8|Finalizada |
 |11|Getters(Lectura Controlada) y Setters (Modificacion Controlada) |9|Finalizada|
+|12|Clases Abstractas |11|Finalizado|
 
 ## Linck de PADLET
 https://bit.ly/practicas-10B-dmi
