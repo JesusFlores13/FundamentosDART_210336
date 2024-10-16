@@ -25,6 +25,7 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |15|Futures |7|Finalizado|
 |16|Async Await |Pendiente|Activa|
 |17|Try Catch On Finally|Pendiente|Activa|
+|18 |Streams |Pendiente |Activa|
 ## Linck de PADLET
 https://bit.ly/practicas-10B-dmi
 
