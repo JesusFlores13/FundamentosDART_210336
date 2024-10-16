@@ -22,7 +22,8 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |12|Aserciones|3|Finalizada|
 |13|Clases Abstractas |11|Finalizado|
 |14|Mixins|11|Finalizado|
-
+|15|Futures |7|Finalizado|
+|16|Async Await |Pendiente|Activa|
 ## Linck de PADLET
 https://bit.ly/practicas-10B-dmi
 
